@@ -1,0 +1,42 @@
+[
+    {
+        "name": "alex",
+        "pokemon": {
+            "name": "artikodin",
+            "lifePoint": 175,
+            "level": 1,
+            "experience": 0,
+            "giveXp": 60,
+            "limitXP": 120,
+            "attack": 30,
+            "defence": 25,
+            "type1": "vol",
+            "type2": "glace",
+            "KO": false,
+            "link_image": "images",
+            "statut": "normal",
+            "next_evolution": null
+        },
+        "score": 0
+    },
+    {
+        "name": "ajk",
+        "pokemon": {
+            "name": "lugia",
+            "lifePoint": 175,
+            "level": 1,
+            "experience": 0,
+            "giveXp": 100,
+            "limitXP": 120,
+            "attack": 30,
+            "defence": 20,
+            "type1": "vol",
+            "type2": null,
+            "KO": false,
+            "link_image": "images",
+            "statut": "normal",
+            "next_evolution": null
+        },
+        "score": 0
+    }
+]
